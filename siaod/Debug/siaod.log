@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Magamed\source\repos\siaod\Source.cpp(79,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  siaod.vcxproj -> C:\Users\Magamed\source\repos\siaod\Debug\siaod.exe
